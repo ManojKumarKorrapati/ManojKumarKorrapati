@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning New Technologys.
 - 🌱 I’m currently learning Web Applications.
 - 💞️ I’m looking to collaborate on Hadoop and other technologies. 
-- 📫 How to reach me manojkorrapatiusa@gmail.com
+- 📫 How to reach me manojk545711@gmail.com
 
 <!---
 ManojKumarKorrapati/ManojKumarKorrapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
